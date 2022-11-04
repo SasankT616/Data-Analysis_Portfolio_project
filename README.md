@@ -1,2 +1,2 @@
 # Data-Analysis_Portfolio_project
-A thorough analysis of Covid data from all over the world from march 2020 to may 2021 using SQL and Tableau
+A comprehensive SQL and Tableau analysis of global Covid data from March 2020 to May 2021.
